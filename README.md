@@ -1,10 +1,10 @@
 # Projeto: Arquitetura de Dados em Nuvem
 
 
-# Sobre o projeto
+### Sobre o projeto
 
 
-# Autores
+### Autores
 Fernanda Coutinho da Costa
 
 Gizelle Pinheiro Barbosa
