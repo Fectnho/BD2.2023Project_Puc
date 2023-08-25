@@ -1,4 +1,7 @@
+<div align="right">
 <img src="/imagens/puc_minas.png">
+</div>
+
 
 <h1 align="center">Projeto: Arquitetura de Dados em Nuvem</h1>
 
@@ -6,12 +9,12 @@
 <p> Este projeto visa o desenvolvimento de um projeto de arquitetura de dados em nuvem, considerando a coleta, o catálogo, o armazenamento, o processamento e a disponibilização. Esta sendo desenvolvido para eixo 5 do curso de Tecnologia em Banco de Dados, pela instituição PUCMinas.</p>
 
 #### Etapas de desenvolvimento do projeto:
-* 1ª Etapa: Escolha do tema e definição do problema
-* 2ª Etapa: Coleta de dados
-* 3ª Etapa: Pré-processamento de dados
-* 4ª Etapa: Aprendizagem de máquina
-* 5ª Etapa: Análise de resultados
-* 6ª Etapa: Otimização
+- [X] [1ª Etapa: Escolha do tema e definição do problema]()
+- [ ] [2ª Etapa: Coleta de dados]()
+- [ ] [3ª Etapa: Pré-processamento de dados]()
+- [ ] [4ª Etapa: Aprendizagem de máquina]()
+- [ ] [Etapa: Análise de resultados]()
+- [ ] [Etapa: Otimização]()
   
 ## Introdução
 <p>
@@ -39,7 +42,7 @@ Grande parte da energia consumida no mundo, atualmente, é proveniente de fontes
 
 <p>
 O objetivo geral do projeto é apresentar um levantamento sobre a produção de de ernegia elétrica no mundo, bem com verificar se a transição energética para fatores  renováveis tem evoluido de forma consistente.
-Estabelecer um comparativo entre a produção de energia e o total de energia limpa no mundo, entre os anos de 1971 a 2020. A captação e extração dos dados será feita pelo portal da <b>International Energy Agency -
+Estabelecer um comparativo entre a produção de energia e o total de energia limpa no mundo, entre os anos de 1971 a 2020. A captação e extração dos dados será feita pelo portal da <b> Agência Internacional de Energia -
 IEA</b>, via planilha do excel, para coletar e analisar informações sobre a produção de energia ao longo dos anos,  em  regiões geográficas distintas.
 </p>
 
@@ -47,15 +50,21 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 
 Empresa de Pesquisa Energética - EPE. ABCD Energia. Disponível em: https://www.epe.gov.br/pt/abcdenergia. Acesso em: 25 ago. 2023.
 
-Dados do Anuário Estatístico de Energia Elétrica. Disponível em: https://www.epe.gov.br/pt/publicacoes-dados-abertos/dados-abertos/dados-do-anuario-estatistico-de-energia-eletrica . Acesso em: 25 ago. 2023.
+ Agência Internacional de Energia IEA. Disponível em: [https://www.epe.gov.br/pt/publicacoes-dados-abertos/dados-abertos/dados-do-anuario-estatistico-de-energia-eletrica ](https://iea.blob.core.windows.net/assets/a5142e9d-bcc5-4dfe-a950-3eac2f364b0c/WorldEnergyBalancesHighlights2021.xlsx). Acesso em: 25 ago. 2023.
 
 ## Autores
+
 Fernanda Coutinho da Costa
 
 Gizelle Pinheiro Barbosa
 
 Leandro Manzini
 
-Maximiliano Vitorino Martins de Oliveira Reis
+Maximilia no Vitorino Martins de Oliveira Reis
 
 Railda Cardoso dos Santos
+
+## Orientador
+
+Prof. Cristiano G. T. Silva
+
