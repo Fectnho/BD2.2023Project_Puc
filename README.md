@@ -9,12 +9,12 @@
 <p> Este projeto visa o desenvolvimento de um projeto de arquitetura de dados em nuvem, considerando a coleta, o catálogo, o armazenamento, o processamento e a disponibilização. Esta sendo desenvolvido para eixo 5 do curso de Tecnologia em Banco de Dados, pela instituição PUCMinas.</p>
 
 #### Etapas de desenvolvimento do projeto:
-- [X] [1ª Etapa: Escolha do tema e definição do problema]()
-- [ ] [2ª Etapa: Coleta de dados]()
-- [ ] [3ª Etapa: Pré-processamento de dados]()
-- [ ] [4ª Etapa: Aprendizagem de máquina]()
-- [ ] [Etapa: Análise de resultados]()
-- [ ] [Etapa: Otimização]()
+- [X] [1ª Etapa: Escolha do tema e definição do problema]( https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#1%C2%BA-etapa)
+- [ ] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
+- [ ] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
+- [ ] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
+- [ ] [Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
+- [ ] [Etapa: Otimização](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#6%C2%AA-etapa)
 
 ## 1º Etapa  
 
