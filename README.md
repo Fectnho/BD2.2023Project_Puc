@@ -3,9 +3,9 @@
 </div>
 
 
-<h1 align="center">Projeto: Arquitetura de Dados em Nuvem</h1>
+# Projeto: Arquitetura de Dados em Nuvem
 
-# Sobre o projeto 
+## Sobre o projeto 
 <p> Este projeto visa o desenvolvimento de um projeto de arquitetura de dados em nuvem, considerando a coleta, o catálogo, o armazenamento, o processamento e a disponibilização. Esta sendo desenvolvido para eixo 5 do curso de Tecnologia em Banco de Dados, pela instituição PUCMinas.</p>
 
 #### Etapas de desenvolvimento do projeto:
@@ -15,8 +15,10 @@
 - [ ] [4ª Etapa: Aprendizagem de máquina]()
 - [ ] [Etapa: Análise de resultados]()
 - [ ] [Etapa: Otimização]()
-  
-## Introdução
+
+## 1º Etapa  
+
+### Introdução
 <p>
 O tema escolhido pelo grupo para o desenvolvimento do projeto do eixo 5 do curso de Tecnologia em Banco de Dados é <b>Energia Renovável</b>.
 </p>
@@ -32,19 +34,29 @@ Fontes de energia renováveis são consideradas inesgotáveis, pois se renovam c
 A Transição energética é um processo de mudança estrutural que visa transformar a forma como produzimos e consumimos energia, com o objetivo de substituir o uso de fontes não renováveis e prejudiciais ao meio ambiente, como os combustíveis fósseis, por fontes renováveis e sustentáveis, como a energia eólica, solar e hidráulica. Ou seja, uma transformação na Matriz Energética Mundial. Essa mudança envolve a implementação de novas tecnologias e modelos de negócio, a promoção da eficiência energética, a descentralização da produção de energia e o desenvolvimento de novas fontes de energia limpa e renovável que não emitem GEE na sua operação. Além disso, a transição energética tem como objetivo reduzir os custos e o consumo de energia, diminuir a pegada de carbono e melhorar a infraestrutura de energia para toda a população mundial. A transição energética é caracterizada pelos “3 Ds”: Descarbonização, Descentralização e Digitalização. A descarbonização foca nas emissões de carbono, a descentralização na geração de energia próxima ao consumidor e a digitalização significa transformação digital, tanto de documentos, quanto de atividades e serviços (EPE, 2023).
 </p>
 
-## Definição do problema
+### Definição do problema
 <p>
 As fontes não renováveis de energia, como o petróleo e o carvão mineral, são responsáveis por grande parte da emissão de gases de efeito estufa na atmosfera, visto que estas fontes são combustíveis (precisam ser queimadas para gerar energia) e liberam gases poluentes, que impactam a saúde e o meio ambiente (EPE, 2023).
 Grande parte da energia consumida no mundo, atualmente, é proveniente de fontes não renováveis. O uso é justificado por alguns fatos como as características dessas fontes serem bem conhecidas, possuem um rendimento energético elevado, tendo poucas perdas de energia durante o processo de transformação, tem preços atrativos, geram muitos empregos e possuem infraestrutura construída para a sua geração e distribuição (usinas, dutos, ferrovias e rodovias). Os principais usos dessas fontes se dão para a geração de eletricidade, como combustível nos transportes de cargas e de pessoas e no aquecimento de casas (EPE, 2023).
 </p>
 
-## Objetivo
+### Objetivo
 
 <p>
 O objetivo geral do projeto é apresentar um levantamento sobre a produção de de ernegia elétrica no mundo, bem com verificar se a transição energética para fatores  renováveis tem evoluido de forma consistente.
 Estabelecer um comparativo entre a produção de energia e o total de energia limpa no mundo, entre os anos de 1971 a 2020. A captação e extração dos dados será feita pelo portal da <b> Agência Internacional de Energia -
 IEA</b>, via planilha do excel, para coletar e analisar informações sobre a produção de energia ao longo dos anos,  em  regiões geográficas distintas.
 </p>
+
+## 2ª Etapa
+
+## 3ª Etapa
+
+## 4ª Etapa
+
+## 5ª Etapa
+
+## 6ª Etapa
 
 ## Referências Bibliográficas
 
