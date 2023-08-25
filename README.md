@@ -65,18 +65,22 @@ Empresa de Pesquisa Energética - EPE. ABCD Energia. Disponível em: https://www
  Agência Internacional de Energia IEA. Disponível em: [https://www.epe.gov.br/pt/publicacoes-dados-abertos/dados-abertos/dados-do-anuario-estatistico-de-energia-eletrica ](https://iea.blob.core.windows.net/assets/a5142e9d-bcc5-4dfe-a950-3eac2f364b0c/WorldEnergyBalancesHighlights2021.xlsx). Acesso em: 25 ago. 2023.
 
 ## Autores
+Fernanda Coutinho da Costa -
+(fernandacoutinhocosta@gmail.com)
 
-Fernanda Coutinho da Costa
+Gizelle Pinheiro Barbosa -                                                                                                                                               
+(Gizelle.barbosa@sga.pucminas.br)
 
-Gizelle Pinheiro Barbosa
+Leandro Manzini -
+(leandro.manzini@outlook.com)
 
-Leandro Manzini
+Maximiliano Vitorino Martins de Oliveira Reis -
+(maximiliano.reis@sga.pucminas.br)
 
-Maximilia no Vitorino Martins de Oliveira Reis
-
-Railda Cardoso dos Santos
+Railda Cardoso dos Santos -
+(raildacds@yahoo.com)
 
 ## Orientador
-
-Prof. Cristiano G. T. Silva
+Prof. Cristiano G. T. Silva -
+(sgtsilva@sga.pucminas.br)
 
