@@ -68,7 +68,7 @@ Empresa de Pesquisa Energética - EPE. ABCD Energia. Disponível em: https://www
 Fernanda Coutinho da Costa -
 (fernandacoutinhocosta@gmail.com)
 
-Gizelle Pinheiro Barbosa -                                                                                                                                               
+Gizelle Pinheiro Barbosa - 
 (Gizelle.barbosa@sga.pucminas.br)
 
 Leandro Manzini -
