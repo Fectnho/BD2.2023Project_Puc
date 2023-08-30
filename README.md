@@ -82,5 +82,5 @@ Railda Cardoso dos Santos -
 
 ## Orientador
 Prof. Cristiano G. T. Silva -
-(sgtsilva@sga.pucminas.br)
+(cristianosilva@pucminas.br)
 
