@@ -55,10 +55,15 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 	
 ### Provisionamento do Ambiente
 <p>
-1. Criação do grupo de recursos, permitindo o agrupamento de storages, banco de dados, etc.
+	
+1. Criação e compartilhamento do grupo de recursos, permitindo o agrupamento de storages, banco de dados, etc.
 
 <img src="/imagens/sharing_group_resources4.png">
+</p>
 
+2. Criação do Data Lake Storage Account, onde os arquivos foram armazenados dentro de contêineres.
+<img src="/imagens/sharing_group_resources4.png">
+</p>
 ### Governança dos Dados
 <p>
 
