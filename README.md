@@ -52,7 +52,11 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 
 ### Base de Dados
 <p>
-	
+	Os dados que serão utilizados foram extraídos da plataforma IEA - International Energy Agency e estão disponíveis também através do link abaixo:
+
+ [World Energy Balances highlights](https://www.iea.org/data-and-statistics/data-product/world-energy-balances-highlights)
+</p>
+ 
 ### Provisionamento do Ambiente
 <p>
 	
@@ -81,7 +85,6 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 
 <img src="/imagens/criacao_linked_service.png"> 
 </p>
-
    
 ### Governança dos Dados
 <p>
