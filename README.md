@@ -51,7 +51,6 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 ## 2ª Etapa
 
 
-	A Gestão de Dados é de suma importância dentro de uma organização. Os dados são informações que podem ser armazenados e processados e que, se usados da maneira correta, podem criar vantagens competitivas e auxiliar em estratégicas para o sucesso 	organizacional. Uma gestão precisa e adequada ajuda a melhorar toda a eficiência operacional, que vai desde a coleta, passando pelo armazenamento, proteção e o uso propriamente dito desses dados pela organização. 
 ### Base de Dados
 <p>
 	Os dados que serão utilizados foram extraídos da plataforma IEA - International Energy Agency e estão disponíveis também através do link abaixo em formato xlsx.:
