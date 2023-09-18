@@ -61,9 +61,28 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 <img src="/imagens/sharing_group_resources4.png">
 </p>
 
-2. Criação do Data Lake Storage Account, onde os arquivos foram armazenados dentro de contêineres.
-<img src="/imagens/sharing_group_resources4.png">
+2. Criação e implantação do Data Lake Storage Account, onde os arquivos foram armazenados dentro de contêineres.
+   
+<img src="/imagens/criacao_data_lake_storage2.png"> 
+<img src="/imagens/implantacao_data_lake_storage2.png">
 </p>
+
+3. Criação do Banco de Dados SQL da Azure
+
+<img src="/imagens/implantacao_banco_de_dados.png"> 
+</p>
+
+4. Criação do Data Factory para realizar a  integração de dados e o processo de  ETL  para criar fluxos de trabalho orientados a dados  e orquestrar a movimentação e a transformação de dados.
+
+<img src="/imagens/criacao_data_factory.png"> 
+</p>
+
+5. Criação do Integration Runtimes para conectar o Azure Data Factory com os demais serviços do Azure e criação do Linked Services para realizar a conexão com a fonte de dados do  Azure SQL Database e Azure Data Lake.
+
+<img src="/imagens/criacao_linked_service.png"> 
+</p>
+
+   
 ### Governança dos Dados
 <p>
 
