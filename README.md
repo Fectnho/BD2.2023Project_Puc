@@ -55,8 +55,11 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 	Os dados que serão utilizados foram extraídos da plataforma IEA - International Energy Agency e estão disponíveis também através do link abaixo em formato xlsx.:
 
  [World Energy Balances highlights](https://www.iea.org/data-and-statistics/data-product/world-energy-balances-highlights)
-</p>
  
+ ### Representação macro do processo dos dados na plataforma Azure
+<img src="/imagens/arquitetura_dados.png"> 
+</p>
+
 ### Provisionamento do Ambiente
 <p>
 	
@@ -89,6 +92,8 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 
 <img src="/imagens/ciclo_governanca_dados.png"> 
 <p>
+	
+
 
 ## 3ª Etapa
 
