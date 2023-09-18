@@ -10,7 +10,7 @@
 
 #### Etapas de desenvolvimento do projeto:
 - [X] [1ª Etapa: Escolha do tema e definição do problema]( https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#1%C2%BA-etapa)
-- [ ] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
+- [X] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
 - [ ] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
 - [ ] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
 - [ ] [5ª Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
@@ -43,12 +43,24 @@ O tema escolhido pelo grupo para o desenvolvimento do projeto do eixo 5 do curso
 ### Objetivo
 
 <p>
-	O objetivo geral do projeto é apresentar um levantamento sobre a produção de de ernegia elétrica no mundo, bem com verificar se a transição energética para fatores  renováveis tem evoluido de forma consistente.
+	O objetivo geral do projeto é apresentar um levantamento sobre a produção de ernegia elétrica no mundo, bem com verificar se a transição energética para fatores renováveis tem evoluido de forma consistente.
 	Também é escopo do presente trabalho estabelecer um comparativo entre a produção de energia e o total de energia limpa no mundo, entre os anos de 1971 a 2020. A captação e extração dos dados será feita pelo portal da <b> Agência Internacional de Energia -
 IEA</b>, via planilha do excel, para coletar e analisar informações sobre a produção de energia ao longo dos anos,  em  regiões geográficas distintas.
 </p>
 
 ## 2ª Etapa
+
+### Base de Dados
+<p>
+	
+### Provisionamento do Ambiente
+<p>
+1. Criação do grupo de recursos, permitindo o agrupamento de storages, banco de dados, etc.
+
+<img src="/imagens/sharing_group_resources4.png">
+
+### Governança dos Dados
+<p>
 
 ## 3ª Etapa
 
