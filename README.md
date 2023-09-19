@@ -53,7 +53,7 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 ### Governança dos Dados
 <img src="/imagens/framework_dama.jpg">
 
-<p> 	A Gestão de Dados é de suma importância dentro de uma organização. Os dados são informações que podem ser armazenadas e processadas e que, se usadas da maneira correta, podem criar vantagens competitivas e auxiliar em estratégias para o sucesso 	organizacional. Uma gestão precisa e adequada ajuda a melhorar toda a eficiência operacional, que vai desde a coleta, passando pelo armazenamento, proteção e o uso propriamente dito desses dados pela organização.  </p>
+<p> 	A Gestão de Dados é de suma importância dentro de uma organização. Os dados são informações que podem ser armazenadas e processadas e que, se usadas da maneira correta, podem criar vantagens competitivas e auxiliar em estratégias para o sucesso 	organizacional. Uma gestão precisa e adequada ajuda a melhorar toda a eficiência operacional, que vai desde a coleta, passando pelo armazenamento, proteção e o uso propriamente dito desses dados pela organização. O framework escolhido é da DAMA, que divide o programa de governança nas seguintes diretrizes:  </p>
 
 ### Gerenciamento de arquitetura de dados: 
 Trata-se de entender quais os requisitos do projeto de dados, ou seja, entender quais os dados que são necessários, de onde eles vêm e por onde terão de passar até chegar ao seu dashboard. É definir o caminho deste dado.
@@ -66,14 +66,18 @@ Trata-se de entender quais os requisitos do projeto de dados, ou seja, entender 
  
  ### Representação macro do processo dos dados na plataforma Azure
 <img src="/imagens/arquitetura_dados.png"> 
-</p>
+
+Criamos o modelo dimensional baseado na necessidade analítica do projeto, para analisar os dados baseado no Fato consumo de energia e  Fato população por Produto, Tempo, Países, Blocos e Setor.
+
+<img src="/imagens/modelo_dimensional_dados.png"> 
+
 
 ### Desenvolvimento dos dados: 
 Trata-se de analisar os requisitos dos dados, implantar o seu modelo de dados, definir como será a manutenção destes modelos de dados, projetar estruturas de bancos de dados para suportar suas necessidades, projetar como será o versionamento e integração de dados e modelo de dados, projetar planos de testes, projetar planos de migração entre outras atividades.
 
 ### Gerenciamento de operações de banco de dados:
-Trata-se do planejamento, controle, manutenção e suporte ao ativo dado, durante todo o seu ciclo de vida, ou seja, desde sua aquisição, passando por sua exibição, até a eliminação desse dado. Vale ressaltar que um planejamento de Recuperação de desastre é de extrema importância para qualquer projeto.
 
+Trata-se do planejamento, controle, manutenção e suporte ao ativo dado, durante todo o seu ciclo de vida, ou seja, desde sua aquisição, passando por sua exibição, até a eliminação desse dado.
 #### Provisionamento do Ambiente
 <p>
 	
@@ -101,9 +105,18 @@ Trata-se do planejamento, controle, manutenção e suporte ao ativo dado, durant
 
 <img src="/imagens/criacao_linked_service.png"> 
 </p>
-   
-	
 
+### Gerenciamento de segurança de dados: 
+Consiste no planejamento, desenvolvimento e execução de políticas e procedimentos para assegurar a devida autenticação, autorização, acesso e auditoria nos ativos de dados e informações.O gerenciamento de identidade e acesso (IAM) é a prática de garantir que pessoas e entidades com identidades digitais tenham o nível certo de acesso aos recursos da empresa, como redes e bancos de dados. As funções do usuário e os privilégios de acesso são definidos e gerenciados por meio de um sistema de IAM.Por se tratar de dados abertos não se aplica a Lei LGPD.
+
+###  Gerenciamento de DW (Data Warehousing) e BI (Business Intelligence):  
+Trata-se de planejar e projetar modelos de dados que permitam a geração de informações para tomada de decisão sob várias perspectivas (dimensões).
+
+### Gerenciamento de Metadados: 
+Os meta-dados descrevem a estrutura e significados a respeito de dados e, assim contribuem para que seu uso seja eficiente ou ineficiente, oferecendo contexto aos dados relacionados, ou seja informações que gerem conhecimento
+
+### Gerenciamento de Qualidade de dados: 
+Trata-se de planejar e projetar o saneamento do dado, provendo qualidade ao mesmo, para que este dado possa gerar informações confiáveis para suportar a tomada de decisão. O objetivo é planejar, implementar e controlar atividades que apliquem técnicas de gerência de qualidade de dados para medir, avaliar, melhorar e garantir a adequação dos dados ao seu uso pretendido.
 
 ## 3ª Etapa
 
