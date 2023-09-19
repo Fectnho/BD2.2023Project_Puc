@@ -50,6 +50,9 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 
 ## 2ª Etapa
 
+### Governança dos Dados
+<img src="/imagens/framework_dama.png"> 
+
 <p> 	A Gestão de Dados é de suma importância dentro de uma organização. Os dados são informações que podem ser armazenadas e processadas e que, se usadas da maneira correta, podem criar vantagens competitivas e auxiliar em estratégias para o sucesso 	organizacional. Uma gestão precisa e adequada ajuda a melhorar toda a eficiência operacional, que vai desde a coleta, passando pelo armazenamento, proteção e o uso propriamente dito desses dados pela organização.  </p>
 
 ### Base de Dados
@@ -90,11 +93,6 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 <img src="/imagens/criacao_linked_service.png"> 
 </p>
    
-### Governança dos Dados
-
-<p>	Governança de dados é todo o processo de ciclo de vida dos dados, que vai desde a coleta, até seu uso e o descarte. Cabe a Governança de dados definir os padrões e as políticas de dados a serem seguidas e respeitadas, estando sempre em conformidade com os órgãos e políticas públicas vigentes.  </p>
-<img src="/imagens/ciclo_governanca_dados.png"> 
-<p>
 	
 
 
