@@ -68,7 +68,7 @@ Trata-se de entender quais os requisitos do projeto de dados, ou seja, entender 
 <img src="/imagens/arquitetura_dados.png"> 
 </p>
 
-###Desenvolvimento dos dados: 
+### Desenvolvimento dos dados: 
 Trata-se de analisar os requisitos dos dados, implantar o seu modelo de dados, definir como será a manutenção destes modelos de dados, projetar estruturas de bancos de dados para suportar suas necessidades, projetar como será o versionamento e integração de dados e modelo de dados, projetar planos de testes, projetar planos de migração entre outras atividades.
 
 ### Gerenciamento de operações de banco de dados:
