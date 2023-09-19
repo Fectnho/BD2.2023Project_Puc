@@ -51,11 +51,14 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 ## 2ª Etapa
 
 ### Governança dos Dados
-<img src="/imagens/framework_dama.png"> 
+<img src="/imagens/framework_dama.jpg">
 
 <p> 	A Gestão de Dados é de suma importância dentro de uma organização. Os dados são informações que podem ser armazenadas e processadas e que, se usadas da maneira correta, podem criar vantagens competitivas e auxiliar em estratégias para o sucesso 	organizacional. Uma gestão precisa e adequada ajuda a melhorar toda a eficiência operacional, que vai desde a coleta, passando pelo armazenamento, proteção e o uso propriamente dito desses dados pela organização.  </p>
 
-### Base de Dados
+### Gerenciamento de arquitetura de dados: 
+Trata-se de entender quais os requisitos do projeto de dados, ou seja, entender quais os dados que são necessários, de onde eles vêm e por onde terão de passar até chegar ao seu dashboard. É definir o caminho deste dado.
+
+#### Base de Dados
 <p>
 	Os dados que serão utilizados foram extraídos da plataforma IEA - International Energy Agency e estão disponíveis também através do link abaixo em formato xlsx.:
 
@@ -65,7 +68,13 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
 <img src="/imagens/arquitetura_dados.png"> 
 </p>
 
-### Provisionamento do Ambiente
+###Desenvolvimento dos dados: 
+Trata-se de analisar os requisitos dos dados, implantar o seu modelo de dados, definir como será a manutenção destes modelos de dados, projetar estruturas de bancos de dados para suportar suas necessidades, projetar como será o versionamento e integração de dados e modelo de dados, projetar planos de testes, projetar planos de migração entre outras atividades.
+
+### Gerenciamento de operações de banco de dados:
+Trata-se do planejamento, controle, manutenção e suporte ao ativo dado, durante todo o seu ciclo de vida, ou seja, desde sua aquisição, passando por sua exibição, até a eliminação desse dado. Vale ressaltar que um planejamento de Recuperação de desastre é de extrema importância para qualquer projeto.
+
+#### Provisionamento do Ambiente
 <p>
 	
 #### 1. Criação e compartilhamento do grupo de recursos, permitindo o agrupamento de storages, banco de dados, etc.
