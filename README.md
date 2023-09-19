@@ -92,6 +92,7 @@ IEA</b>, via planilha do excel, para coletar e analisar informações sobre a pr
    
 ### Governança dos Dados
 
+<p>	Governança de dados é todo o processo de ciclo de vida dos dados, que vai desde a coleta, até seu uso e o descarte. Cabe a Governança de dados definir os padrões e as políticas de dados a serem seguidas e respeitadas, estando sempre em conformidade com os órgãos e políticas públicas vigentes.  </p>
 <img src="/imagens/ciclo_governanca_dados.png"> 
 <p>
 	
