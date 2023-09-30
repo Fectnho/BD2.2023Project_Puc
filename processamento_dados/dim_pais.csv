@@ -1,0 +1,47 @@
+﻿fk_pais,nome_pais,pais_bloco,pais_regiao,pais_renda
+1,Africa,CAF,Sub-Saharan Africa,Low income
+2,Australia,AUS,East Asia & Pacific,High income
+3,Austria,AUT,Europe & Central Asia,High income
+4,Belgium,BEL,Europe & Central Asia,High income
+5,Brazil,BRA,Latin America & Caribbean,Upper middle income
+6,Canada,CAN,North America,High income
+7,Chile,CHL,Latin America & Caribbean,High income
+8,China,CHN,East Asia & Pacific,Upper middle income
+9,Colombia,COL,Latin America & Caribbean,Upper middle income
+10,Czech Republic,CZE,Europe & Central Asia,High income
+11,Denmark,DNK,Europe & Central Asia,High income
+12,Estonia,EST,Europe & Central Asia,High income
+13,Finland,FIN,Europe & Central Asia,High income
+14,France,FRA,Europe & Central Asia,High income
+15,Germany,DEU,Europe & Central Asia,High income
+16,Greece,GRC,Europe & Central Asia,High income
+17,Hungary,HUN,Europe & Central Asia,High income
+18,Iceland,ISL,Europe & Central Asia,High income
+19,India,IND,South Asia,Lower middle income
+20,Indonesia,IDN,East Asia & Pacific,Lower middle income
+21,Ireland,IRL,Europe & Central Asia,High income
+22,Israel,ISR,Middle East & North Africa,High income
+23,Italy,ITA,Europe & Central Asia,High income
+24,Japan,JPN,East Asia & Pacific,High income
+25,Korea,KOR,East Asia & Pacific,High income
+26,Latvia,LVA,Europe & Central Asia,High income
+27,Lithuania,LTU,Europe & Central Asia,High income
+28,Luxembourg,LUX,Europe & Central Asia,High income
+29,Mexico,MEX,Latin America & Caribbean,Upper middle income
+30,Morocco,MAR,Middle East & North Africa,Lower middle income
+31,Netherlands,NLD,Europe & Central Asia,High income
+32,New Zealand,NZL,East Asia & Pacific,High income
+33,Norway,NOR,Europe & Central Asia,High income
+34,Poland,POL,Europe & Central Asia,High income
+35,Portugal,PRT,Europe & Central Asia,High income
+36,Singapore,SGP,East Asia & Pacific,High income
+37,Slovak Republic,SVK,Europe & Central Asia,High income
+38,Slovenia,SVN,Europe & Central Asia,High income
+39,South Africa,ZAF,Sub-Saharan Africa,Upper middle income
+40,Spain,ESP,Europe & Central Asia,High income
+41,Sweden,SWE,Europe & Central Asia,High income
+42,Switzerland,CHE,Europe & Central Asia,High income
+43,Thailand,THA,East Asia & Pacific,Upper middle income
+44,Turkey,TUR,Europe & Central Asia,Upper middle income
+45,United Kingdom,GBR,Europe & Central Asia,High income
+46,United States,USA,North America,High income

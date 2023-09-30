@@ -1,0 +1,14 @@
+﻿fk_setor,nome_setor
+1,Commercial and public services (PJ)
+2,Electricity output (GWh)
+3,"Electricity, CHP and heat plants (PJ)"
+4,Exports (PJ)
+5,Imports (PJ)
+6,Industry (PJ)
+7,"Oil refineries, transformation (PJ)"
+8,Other final consumption (PJ)
+9,Production (PJ)
+10,Residential (PJ)
+11,Total energy supply (PJ)
+12,Total final consumption (PJ)
+13,Transport (PJ)

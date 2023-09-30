@@ -1,0 +1,11 @@
+﻿fk_produto,nome_produto,Tipo
+1,"Coal, peat and oil shale",NRW
+2,"Crude, NGL and feedstocks",NRW
+3,Electricity,NRW
+4,Fossil fuels,NRW
+5,Heat,NRW
+6,Natural gas,NRW
+7,Nuclear,NRW
+8,Oil products,NRW
+9,Renewable sources,RW
+10,Renewables and waste,NRW
