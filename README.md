@@ -127,7 +127,7 @@ Integração: variedade de ferramentas para análise dos dados, como o Power BI,
 
 #### 1. Transformação dos dados
 Para transformação dos dados  utilizamos a linguagem python e a ferramenta Jupyter Notebook para realizar a transformação dos dados. Realizando a pivotização das colunas transformando de uma versão ampla (espalhando os dados em relação as colunas) para uma versão comprida (espalhando em relação as linhas), criação de novas tabelas a partir de colunas já existente nas base de dados.
-Processamento dos dados disponível em : (https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Untitled.ipynb)
+Processamento dos dados disponível em : https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Untitled.ipynb
 
 #### 2. Armazenamento dos dados no Storage account Microsoft Azure
 Criamos um contêiner no storage account para realizar o upload dos arquivos .csv e armazená-los até o momento da replicação para o banco de dados.
@@ -138,7 +138,7 @@ Criamos um contêiner no storage account para realizar o upload dos arquivos .cs
 
 Utilizamos o Banco de Dados SQL do Azure para realizar o armazenamento dos dados.
 Criação das tabelas no Banco de Dados SQL. O arquivo que contém os scripts de criação de todas as tabelas está armazenado no Storage Account.
-Script de criação das tabelas no banco de dados disponível em :
+Script de criação das tabelas no banco de dados disponível em :https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/script_sql/script.sql
 
 Para alimentar todas as tabelas, criamos pipelines individuais no Data Factory, com apenas 1 etapa para copiar dados em massa do  armazenamento de origem para o armazenamento de dados de destino.
 
