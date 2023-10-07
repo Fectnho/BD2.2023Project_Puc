@@ -120,8 +120,33 @@ Trata-se de planejar e projetar o saneamento do dado, provendo qualidade ao mesm
 
 ## 3ª Etapa
 ### PRÉ-PROCESSAMENTO DE DADOS
+Para a etapa de pré-processamento do dados, foi definido pelo grupo a utilização da plataforma Azure, pois dentre os benefícios de seu uso temos:
+Escalabilidade: que permite o gerenciamento da capacidade de armazenamento de acordo com a demanda;
+Disponibilidade: redução dos riscos de perda de dados devido a alta disponibilidade e replicação automática dos dados;
+Integração: variedade de ferramentas para análise dos dados, como o Power BI, por exemplo.
 
-Para essa etapa utilizamos a linguagem python e a ferramenta Jupyter Notebook para realizar a transformação dos dados. Realizando a pivotização das colunas transformando de uma versão ampla (espalhando os dados em relação as colunas) para uma versão comprida (espalhando em relação as linhas), criação de novas tabelas a partir de colunas já existente nas base de dados.
+#### 1. Transformação dos dados
+Para transformação dos dados  utilizamos a linguagem python e a ferramenta Jupyter Notebook para realizar a transformação dos dados. Realizando a pivotização das colunas transformando de uma versão ampla (espalhando os dados em relação as colunas) para uma versão comprida (espalhando em relação as linhas), criação de novas tabelas a partir de colunas já existente nas base de dados.
+Processamento dos dados disponível em : (https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Untitled.ipynb)
+
+#### 2. Armazenamento dos dados no Storage account Microsoft Azure
+Criamos um contêiner no storage account para realizar o upload dos arquivos .csv e armazená-los até o momento da replicação para o banco de dados.
+
+<img src="/imagens/conteiner.png"> 
+
+#### 3.Ingestão dos dados
+
+Utilizamos o Banco de Dados SQL do Azure para realizar o armazenamento dos dados.
+Criação das tabelas no Banco de Dados SQL. O arquivo que contém os scripts de criação de todas as tabelas está armazenado no Storage Account.
+Script de criação das tabelas no banco de dados disponível em :
+
+Para alimentar todas as tabelas, criamos pipelines individuais no Data Factory, com apenas 1 etapa para copiar dados em massa do  armazenamento de origem para o armazenamento de dados de destino.
+
+<img src="/imagens/pipelines.png"> 
+
+A figura abaixo mostra o detalhamento da origem  e o destino dos dados e as características do processo.
+
+<img src="/imagens/ing_dados.png">
 
 ## 4ª Etapa
 
