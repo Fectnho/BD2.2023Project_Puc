@@ -11,7 +11,7 @@
 #### Etapas de desenvolvimento do projeto:
 - [X] [1ª Etapa: Escolha do tema e definição do problema]( https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#1%C2%BA-etapa)
 - [X] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
-- [ ] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
+- [X] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
 - [ ] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
 - [ ] [5ª Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
 - [ ] [6ª Etapa: Otimização](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#6%C2%AA-etapa)
@@ -119,6 +119,9 @@ Os meta-dados descrevem a estrutura e significados a respeito de dados e, assim 
 Trata-se de planejar e projetar o saneamento do dado, provendo qualidade ao mesmo, para que este dado possa gerar informações confiáveis para suportar a tomada de decisão. O objetivo é planejar, implementar e controlar atividades que apliquem técnicas de gerência de qualidade de dados para medir, avaliar, melhorar e garantir a adequação dos dados ao seu uso pretendido.
 
 ## 3ª Etapa
+### PRÉ-PROCESSAMENTO DE DADOS
+
+Para essa etapa utilizamos a linguagem python e a ferramenta Jupyter Notebook para realizar a transformação dos dados. Realizando a pivotização das colunas transformando de uma versão ampla (espalhando os dados em relação as colunas) para uma versão comprida (espalhando em relação as linhas), criação de novas tabelas a partir de colunas já existente nas base de dados.
 
 ## 4ª Etapa
 
