@@ -149,6 +149,11 @@ A figura abaixo mostra o detalhamento da origem  e o destino dos dados e as cara
 <img src="/imagens/ing_dados.png">
 
 ## 4ª Etapa
+### PRÉ-PROCESSAMENTO DE DADOS
+O aprendizado de máquina é um método de análise de dados que automatiza a construção de modelos analíticos. Ele se baseia na ideia de que sistemas podem aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
+
+Para implementação desta etapa, o desafio é a criação de um algoritmo que possibilite uma análise preditiva para a produção de energia limpa no mundo até o ano de 2030.
+
 
 ## 5ª Etapa
 
