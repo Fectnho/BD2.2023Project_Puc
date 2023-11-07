@@ -12,7 +12,7 @@
 - [X] [1ª Etapa: Escolha do tema e definição do problema]( https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#1%C2%BA-etapa)
 - [X] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
 - [X] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
-- [ ] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
+- [X] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
 - [ ] [5ª Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
 - [ ] [6ª Etapa: Otimização](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#6%C2%AA-etapa)
 
@@ -149,12 +149,16 @@ A figura abaixo mostra o detalhamento da origem  e o destino dos dados e as cara
 <img src="/imagens/ing_dados.png">
 
 ## 4ª Etapa
-### PRÉ-PROCESSAMENTO DE DADOS
+###  Aprendizagem de máquina
 O aprendizado de máquina é um método de análise de dados que automatiza a construção de modelos analíticos. Ele se baseia na ideia de que sistemas podem aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
 
 Para implementação desta etapa, o desafio é a criação de um algoritmo que possibilite uma análise preditiva para a produção de energia limpa no mundo até o ano de 2030.
+Será utilizado algoritimo de regressão para prever a produção de energia dentro do período escolhido.Algoritmos de classicação são algoritmos de aprendizagem supervisionada onde o objetivo
+é prever uma classe ou rótulo associado com uma variável de entrada contendo determinados atributos. o
 
-
+#### 1. Transformação dos dados
+Para essa etapa realizamos a unificação das 6 tabelas gerando um único dataset com as informações contendo o consumo de energia , os tipos de produtos, setores, renda dos países e ano.  
+Pocessamento dos dados disponível em: https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Etapa4.ipynb
 ## 5ª Etapa
 
 ## 6ª Etapa
