@@ -153,7 +153,7 @@ A figura abaixo mostra o detalhamento da origem  e o destino dos dados e as cara
 O aprendizado de máquina é um método de análise de dados que automatiza a construção de modelos analíticos. Ele se baseia na ideia de que sistemas podem aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
 
 Para implementação desta etapa, o desafio é a criação de um algoritmo que possibilite uma análise preditiva para a produção de energia limpa no mundo até o ano de 2030.
-Será utilizado algoritimo de regressão para prever a produção de energia dentro do período escolhido.Algoritmos de classicação são algoritmos de aprendizagem supervisionada onde o objetivo
+Será utilizado algoritimo de regressão para prever a produção de energia dentro do período escolhido. Algoritmos de classificação são algoritmos de aprendizagem supervisionada onde o objetivo
 é prever uma classe ou rótulo associado com uma variável de entrada contendo determinados atributos. o
 
 #### 1. Transformação dos dados
