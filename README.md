@@ -160,6 +160,16 @@ Será utilizado algoritimo de regressão para prever a produção de energia den
 Para essa etapa realizamos a unificação das 6 tabelas gerando um único dataset com as informações contendo o consumo de energia , os tipos de produtos, setores, renda dos países e ano.  
 Pocessamento dos dados disponível em: https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Etapa4.ipynb
 ## 5ª Etapa
+### Análise de Resultados
+ 
+A etapa de análise de resultados, no contexto de aprendizado de máquina, representa um ponto chave dentro do projeto.  A interpretação desses resultados vai além de uma simples comparação entre algoritmos. 
+
+Nesta etapa, analisamos os resultados gerados pelo algoritmo de regressão, cujo objetivo foi prever valores contínuos com base em atributos específicos e algoritmos de classificação que ajudaram a prever a classe ou rótulo associado às variáveis utilizadas. Neste estágio, a análise oferece uma visão crítica sobre a aplicabilidade desses métodos dentro do contexto escolhido. É nesse processo de análise, que surgem informações valiosas que contribuem para futuras abordagens com o uso de aprendizado de máquina dentro do projeto.
+
+Como especificado no início do projeto, o objetivo geral é apresentar um levantamento sobre a produção de energia elétrica no mundo e verificar se a transição energética para fatores renováveis tem evoluído de forma consistente. 
+
+Sendo assim, os resultados obtidos possibilitaram uma análise preditiva para a produção de energia limpa até o ano de 2030. Além disso, a visualização desses resultados ajuda a ilustrar a eficácia e a precisão dos modelos além de proporcionar insights estratégicos para aprimorar a tomada de decisão. 
+
 
 ## 6ª Etapa
 
