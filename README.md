@@ -154,7 +154,7 @@ O aprendizado de máquina é um método de análise de dados que automatiza a co
 
 Para implementação desta etapa, o desafio é a criação de um algoritmo que possibilite uma análise preditiva para a produção de energia limpa no mundo até o ano de 2030.
 Será utilizado algoritimo de regressão para prever a produção de energia dentro do período escolhido. Algoritmos de classificação são algoritmos de aprendizagem supervisionada onde o objetivo
-é prever uma classe ou rótulo associado com uma variável de entrada contendo determinados atributos. o
+é prever uma classe ou rótulo associado com uma variável de entrada contendo determinados atributos.
 
 #### 1. Transformação dos dados
 Para essa etapa realizamos a unificação das 6 tabelas gerando um único dataset com as informações contendo o consumo de energia , os tipos de produtos, setores, renda dos países e ano.  
