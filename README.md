@@ -13,7 +13,7 @@
 - [X] [2ª Etapa: Coleta de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#2%C2%AA-etapa)
 - [X] [3ª Etapa: Pré-processamento de dados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#3%C2%AA-etapa)
 - [X] [4ª Etapa: Aprendizagem de máquina](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#4%C2%AA-etapa)
-- [ ] [5ª Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
+- [X] [5ª Etapa: Análise de resultados](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#5%C2%AA-etapa)
 - [ ] [6ª Etapa: Otimização](https://github.com/Fectnho/BD2.2023Project_Puc/tree/main#6%C2%AA-etapa)
 
 ## 1º Etapa  
@@ -160,7 +160,7 @@ Será utilizado algoritimo de regressão para prever a produção de energia den
 Para essa etapa realizamos a unificação das 6 tabelas gerando um único dataset com as informações contendo o consumo de energia , os tipos de produtos, setores, renda dos países e ano.  
 Pocessamento dos dados disponível em: https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Etapa4.ipynb
 #### 2. Aprendizagem de máquina
-
+<img src="/imagens/producao.png">
 Pocessamento dos dados disponível em:https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Aprendizagem_maquina.ipynb
 ## 5ª Etapa
 ### Análise de Resultados
@@ -172,7 +172,7 @@ Nesta etapa, analisamos os resultados gerados pelo algoritmo de regressão, cujo
 Como especificado no início do projeto, o objetivo geral é apresentar um levantamento sobre a produção de energia elétrica no mundo e verificar se a transição energética para fatores renováveis tem evoluído de forma consistente. 
 
 Sendo assim, os resultados obtidos possibilitaram uma análise preditiva para a produção de energia limpa até o ano de 2030. Além disso, a visualização desses resultados ajuda a ilustrar a eficácia e a precisão dos modelos além de proporcionar insights estratégicos para aprimorar a tomada de decisão. 
-
+<img src="/imagens/producao_analise.png">
 
 ## 6ª Etapa
 
