@@ -175,6 +175,7 @@ Nesta etapa, analisamos os resultados gerados pelo algoritmo de regressão, cujo
 Como especificado no início do projeto, o objetivo geral é apresentar um levantamento sobre a produção de energia elétrica no mundo e verificar se a transição energética para fatores renováveis tem evoluído de forma consistente. 
 
 Sendo assim, os resultados obtidos possibilitaram uma análise preditiva para a produção de energia limpa até o ano de 2030. Além disso, a visualização desses resultados ajuda a ilustrar a eficácia e a precisão dos modelos além de proporcionar insights estratégicos para aprimorar a tomada de decisão. 
+
 <img src="/imagens/producao_analise.png">
 
 ## 6ª Etapa
