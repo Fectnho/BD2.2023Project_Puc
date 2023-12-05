@@ -160,8 +160,11 @@ Será utilizado algoritimo de regressão para prever a produção de energia den
 Para essa etapa realizamos a unificação das 6 tabelas gerando um único dataset com as informações contendo o consumo de energia , os tipos de produtos, setores, renda dos países e ano.  
 Pocessamento dos dados disponível em: https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Etapa4.ipynb
 #### 2. Aprendizagem de máquina
+<img src="/imagens/treinamento.png">
+<img src="/imagens/tabela.png">
 <img src="/imagens/producao.png">
 Pocessamento dos dados disponível em:https://github.com/Fectnho/BD2.2023Project_Puc/blob/main/processamento_dados/Aprendizagem_maquina.ipynb
+
 ## 5ª Etapa
 ### Análise de Resultados
  
