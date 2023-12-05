@@ -182,6 +182,15 @@ Sendo assim, os resultados obtidos possibilitaram uma análise preditiva para a 
 <img src="/imagens/producao_analise.png">
 
 ## 6ª Etapa
+### Otimização
+
+Conforme definido na 2ª Etapa do presente projeto e no objetivo inicial do trabalho foi possível fazer a integração, transformação e ingestão dos dados dentro do Banco de Dados SQL do Azure, seguindo o framework DAMA.
+
+Para criação dos algoritmos na etapa de aprendizagem de máquina o grupo infrentou algumas dificuldades na utilização da plataforma Azure e utilizou do Colab, onde foi possível desenvolver o algoritmo de regressão linear e obter uma previsão de produção de energia limpa para os próximos anos.
+
+Inicialmente os dados não estavam totalmente agrupados, o que não permitiu uma visualização e análise clara das informações representadas no gráfico. Como forma de otimização, os valores por ano foram agrupados permitindo uma melhor visualização.
+
+Como oportunidades futuras, pode-se rodar algoritmos que tragam a projeção de produção de energia limpa para os próximos anos por tipo: Solar, Eólica, Geotérmica, etc.
 
 ## Referências Bibliográficas
 
